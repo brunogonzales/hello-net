@@ -1,0 +1,15 @@
+/Users/brunogonzales/1/net/myApp/bin/Debug/net5.0/myApp.deps.json
+/Users/brunogonzales/1/net/myApp/bin/Debug/net5.0/myApp.runtimeconfig.json
+/Users/brunogonzales/1/net/myApp/bin/Debug/net5.0/myApp.runtimeconfig.dev.json
+/Users/brunogonzales/1/net/myApp/bin/Debug/net5.0/myApp.dll
+/Users/brunogonzales/1/net/myApp/bin/Debug/net5.0/ref/myApp.dll
+/Users/brunogonzales/1/net/myApp/bin/Debug/net5.0/myApp.pdb
+/Users/brunogonzales/1/net/myApp/obj/Debug/net5.0/myApp.csprojAssemblyReference.cache
+/Users/brunogonzales/1/net/myApp/obj/Debug/net5.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunogonzales/1/net/myApp/obj/Debug/net5.0/myApp.AssemblyInfoInputs.cache
+/Users/brunogonzales/1/net/myApp/obj/Debug/net5.0/myApp.AssemblyInfo.cs
+/Users/brunogonzales/1/net/myApp/obj/Debug/net5.0/myApp.csproj.CoreCompileInputs.cache
+/Users/brunogonzales/1/net/myApp/obj/Debug/net5.0/myApp.dll
+/Users/brunogonzales/1/net/myApp/obj/Debug/net5.0/ref/myApp.dll
+/Users/brunogonzales/1/net/myApp/obj/Debug/net5.0/myApp.pdb
+/Users/brunogonzales/1/net/myApp/obj/Debug/net5.0/myApp.genruntimeconfig.cache
